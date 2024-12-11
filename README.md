@@ -12,8 +12,5 @@ This year, I decided to solve the the challenges using **C** since I'm currently
 
 If you're interested in how I approach problem-solving in C, feel free to check out my solutions!
 
-
----
-
 ## License
 This repository is licensed under the **GNU General Public License (GPL)**. You can freely use, modify, and distribute these solutions, but any derivative works must also be shared under the GPL license. Please see the [LICENSE](LICENSE) file for more details.
