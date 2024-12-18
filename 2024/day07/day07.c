@@ -6,8 +6,8 @@
 #include <math.h>
 
 ////////////////////////////////////////////////////////////////
-// Advent of Code 2024 Day 7
-// Link: <a href="...">https://adventofcode.com/2024/day/7</a>
+// Advent of Code 2024 Day 7                                  //
+// Link: https://adventofcode.com/2024/day/7                  //
 ////////////////////////////////////////////////////////////////
 
 #define filename "day07input.txt"

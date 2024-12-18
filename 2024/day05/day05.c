@@ -3,11 +3,10 @@
 #include <ctype.h>
 
 ////////////////////////////////////////////////////////////////
-// Advent of Code 2024 Day 5
-// Link: <a href="...">https://adventofcode.com/2024/day/5</a>
+// Advent of Code 2024 Day 5                                  //
+// Link: https://adventofcode.com/2024/day/5                  //
 ////////////////////////////////////////////////////////////////
 
-//#define filename "day05test.txt"
 #define filename "day05input.txt"
 
 // Parses the file and returns the number of rules

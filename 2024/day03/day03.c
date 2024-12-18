@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 ////////////////////////////////////////////////////////////////
-// Advent of Code 2024 Day 3
-// Link: <a href="...">https://adventofcode.com/2024/day/3</a>
+// Advent of Code 2024 Day 3                                  //
+// Link: https://adventofcode.com/2024/day/3                  //
 ////////////////////////////////////////////////////////////////
 
 #define filename "day03input.txt"

@@ -3,8 +3,8 @@
 #include <ctype.h>
 
 ////////////////////////////////////////////////////////////////
-// Advent of Code 2024 Day 2
-// Link: <a href="...">https://adventofcode.com/2024/day/2</a>
+// Advent of Code 2024 Day 2                                  //
+// Link: https://adventofcode.com/2024/day/2                  //
 ////////////////////////////////////////////////////////////////
 
 #define filename "day02input.txt"

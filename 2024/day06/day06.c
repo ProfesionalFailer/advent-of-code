@@ -4,8 +4,8 @@
 #include <ctype.h>
 
 ////////////////////////////////////////////////////////////////
-// Advent of Code 2024 Day 6
-// Link: <a href="...">https://adventofcode.com/2024/day/6</a>
+// Advent of Code 2024 Day 6                                  //
+// Link: https://adventofcode.com/2024/day/6                  //
 ////////////////////////////////////////////////////////////////
 
 #define filename "day06input.txt"

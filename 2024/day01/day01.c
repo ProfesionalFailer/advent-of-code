@@ -3,8 +3,8 @@
 
 
 ////////////////////////////////////////////////////////////////
-// Advent of Code 2024 Day 1
-// Link: <a href="...">https://adventofcode.com/2024/day/1</a>
+// Advent of Code 2024 Day 1                                  //
+// Link: https://adventofcode.com/2024/day/1                  //
 ////////////////////////////////////////////////////////////////
 
 #define filename "day01input.txt"
